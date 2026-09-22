@@ -8,6 +8,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://openfontlicense.org
 
-# Contributors
+## Contributors
 Sidiq Kamal Nurmawan <sidiqnurmawan@gmail.com>
 Erwin Wirianata <wirianata.erwin@gmail.com>
