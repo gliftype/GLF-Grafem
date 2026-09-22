@@ -23,8 +23,8 @@ Run the following command to generate desktop-ready OpenType and TrueType fonts:
 mkdir -p fonts/ttf fonts/otf
 
 # Compile the .glyphs source file
-fontmake -g sources/GLF-Grafem.glyphs -o ttf --output-dir fonts/ttf/
-fontmake -g sources/GLF-Grafem.glyphs -o otf --output-dir fonts/otf/
+fontmake -g sources/GLF_Grafem.glyphs -o ttf --output-dir fonts/ttf/
+fontmake -g sources/GLF_Grafem.glyphs -o otf --output-dir fonts/otf/
 ```
 The compiled files will appear inside the newly created `fonts/` directory.
 
