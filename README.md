@@ -39,5 +39,5 @@ Erwin Wirianata <wirianata.erwin@gmail.com>
 
 ![Alt Text](GLF-Grafem.png)
 
-#Update
+# Notes
 This is a beta font with ongoing improvements and fixes. Every update will be published directly to the repository.
