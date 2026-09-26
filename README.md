@@ -36,3 +36,5 @@ https://openfontlicense.org
 ## Contributors
 Sidiq Kamal Nurmawan <sidiq.nurmawan@gmail.com>
 Erwin Wirianata <wirianata.erwin@gmail.com>
+
+![Alt Text](GLF-Grafem.png)
