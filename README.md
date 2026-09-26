@@ -38,3 +38,6 @@ Sidiq Kamal Nurmawan <sidiq.nurmawan@gmail.com>
 Erwin Wirianata <wirianata.erwin@gmail.com>
 
 ![Alt Text](GLF-Grafem.png)
+
+#Update
+This is a beta font with ongoing improvements and fixes. Every update will be published directly to the repository.
